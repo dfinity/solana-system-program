@@ -1,8 +1,9 @@
 > [!IMPORTANT]
-> This is a fork of the original `system` repository to make the code run in non-browser WASM environments, 
+> This is a fork of the original [`system` repository](https://github.com/solana-program/system) to make the code run in non-browser WASM environments, 
 > such as a canister running on the [Internet Computer](https://internetcomputer.org) (ICP).
-> This fork will be archived once the required changes are merged upstream (see [system#47](https://github.com/solana-program/system/issues/47)).
-> The original repository can be found [here](https://github.com/solana-program/system).
+> This fork is not longer required since the `solana-system-interface` crate was moved back to the Solana SDK repository 
+> (see [this PR](https://github.com/anza-xyz/solana-sdk/pull/264)).
+> The [`solana-sdk` repository]((https://github.com/anza-xyz/solana-sdk) should now be used instead of this fork.
 
 # System
 
