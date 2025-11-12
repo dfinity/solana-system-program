@@ -3,7 +3,7 @@
 > such as a canister running on the [Internet Computer](https://internetcomputer.org) (ICP).
 > This fork is not longer required since the `solana-system-interface` crate was moved back to the Solana SDK repository 
 > (see [this PR](https://github.com/anza-xyz/solana-sdk/pull/264)).
-> The [`solana-sdk` repository]((https://github.com/anza-xyz/solana-sdk) should now be used instead of this fork.
+> The [`solana-sdk` repository](https://github.com/anza-xyz/solana-sdk) should now be used instead of this fork.
 
 # System
 
